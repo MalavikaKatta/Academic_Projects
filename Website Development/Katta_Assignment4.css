@@ -1,0 +1,76 @@
+body 
+{
+  background-color: lightblue;
+  color: #000000;
+}
+#index {
+  background-color: lightgrey;
+  margin-inline: 350px;
+}
+a {
+  text-decoration: none;
+  color: darkblue;
+}
+#Navigation {
+  width: 180px;
+  float: left;
+}
+#para {
+  width: 300px;
+  float: right;
+}
+#Navigation ul{
+  list-style-type: none;
+  padding: 0;
+}
+#Homepage
+{
+  align-content: top;
+  background-color: #66CCFF;
+  color: #FFF;
+  text-align: center;
+}
+#fieldset {
+  background-color: lightgrey;
+  width: 400px;
+  border: 10px solid darkblue;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+#h2{
+  color: black;
+}
+#h1{
+  color: black;
+}
+#ulh3 ul{
+  list-style-type: none;
+  padding: 0;
+  color: blue;
+  }
+#Description-card {
+  background-color: #cb98ee;
+  color: black;
+}
+#contact_form {
+  background-color: lightgrey;
+  width: 550px;
+  border: 10px solid darkblue;
+  padding: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#table {
+  background-color: grey;
+  width: 750px;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#cookies {
+  background-color: lightgrey;
+  width: 600px;
+  border: 10px solid darkblue;
+  padding: 50px;
+  }
